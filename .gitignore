@@ -1,0 +1,3 @@
+#Ingnorar los archivos que son .class
+*.class
+
